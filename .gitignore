@@ -1,6 +1,6 @@
 # Data
 data/raw/*
-data/baseline/*
+data/processed/*
 data/clean/*
 !.gitkeep
 
